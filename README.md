@@ -1,6 +1,6 @@
 # 🤗 Welcome to My GitHub
 
-> 현재 메인으로는 Python-Djnago(Ninja)-MySQL-AWS이며 새로운 기술을 배워가고 있습니다.   
+> 현재 메인으로는 Python-Djnago(REST-framewook/ Ninja)-MySQL-AWS이며 새로운 기술을 배워가고 있습니다.   
 
 ## 📚 STACKS
 
